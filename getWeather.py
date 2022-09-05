@@ -1,7 +1,7 @@
 import requests #The module in python that allows us to send requests to API
 
 
-API_KEY = "9c9650601c24bbd9014a0d0b1e5afba2"
+API_KEY = "" # need to get API key from openweathermap
 BASE_URL ="http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name: ")
